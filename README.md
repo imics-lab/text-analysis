@@ -1,4 +1,4 @@
-# Understanding Social Anxiety: Detecting Stress Factors through Text Analysis
+#  Detecting Intensity of Anxiety in Language of Student Veterans with Social Anxiety Using Text Analysis
 
 # Table of Contents
 1. [About this repository](#about)
